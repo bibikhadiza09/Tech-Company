@@ -1,0 +1,9 @@
+secendary colour- #7B68EA;
+text colour-
+git init
+git add
+git commit –m “first commit”
+git remote add origin (repository name)
+git branch –M main 
+git push –u origin main
+
